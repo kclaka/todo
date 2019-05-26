@@ -8,7 +8,7 @@ export default class App extends Component{
         <div>
           <h4 className="bg-primary text-white text-center p-w">
             To Do List
-          </h4>
+          </h4> 
         </div>
     )
   };
